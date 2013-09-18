@@ -1,0 +1,10 @@
+attr    footprint=dip-8.fp
+attr    pinmap=IN+=3
+attr    pinmap=IN-=2
+attr    pinmap=V+=8
+attr    pinmap=V-=4
+attr    pinmap=OUT=1
+attr    manuf=Fairchild
+attr    manuf-pn=LM393N
+attr    digikey-pn=LM393NFS-ND
+attr    mouser-pn=512-LM393N

@@ -1,0 +1,12 @@
+attr    footprint=cp-radial-500.fp
+attr    capacitance=0.047µ
+attr    tolerance=±3%
+attr    voltage-rating=800VDC
+attr    case-style=radial
+attr    case-length=15.7mm
+attr    case-width=9.7mm
+attr    case-height=14.1mm
+attr    lead-spacing=12.5mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECW-H8473HA
+attr    mouser-pn=667-ECW-H8473HA

@@ -1,0 +1,8 @@
+attr    footprint=to92s.fp
+attr    pinmap=A=1
+attr    pinmap=K=2
+attr    pinmap=ADJ=3
+attr    manuf=Texas Instruments
+attr    manuf-pn=LM336BZ-5.0/NOPB
+attr    digikey-pn=LM336BZ-5.0/NOPB-ND
+attr    mouser-pn=926-LM336BZ-5.0/NOPB

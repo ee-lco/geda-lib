@@ -1,0 +1,10 @@
+attr    footprint=dip-8.fp
+attr    pinmap=IN+=3
+attr    pinmap=IN-=2
+attr    pinmap=V+=8
+attr    pinmap=V-=4
+attr    pinmap=OUT=1
+attr    manuf=Texas Instruments
+attr    manuf-pn=LF442CN/NOPB
+attr    digikey-pn=LF442CN/NOPB-ND
+attr    mouser-pn=926-LF442CN/NOPB

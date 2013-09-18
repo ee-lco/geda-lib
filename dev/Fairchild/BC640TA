@@ -1,0 +1,8 @@
+attr    footprint=to92s.fp
+attr    pinmap=B=1
+attr    pinmap=C=2
+attr    pinmap=E=3
+attr    manuf=Fairchild
+attr    manuf-pn=BC640TA
+attr    digikey-pn=BC640TACT-ND
+attr    mouser-pn=512-BC640TA

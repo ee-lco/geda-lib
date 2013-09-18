@@ -1,0 +1,11 @@
+attr    footprint=r-axial-800.fp
+attr    resistance=390
+attr    tolerance=±5%
+attr    power-rating=3W
+attr    temp-co=0±180ppm/°C
+attr    case-style=axial
+attr    case-diameter=4.8mm
+attr    case-length=13mm
+attr    manuf=Vishay
+attr    manuf-pn=AC03000003900JAC00
+attr    mouser-pn=594-AC03W390R0J

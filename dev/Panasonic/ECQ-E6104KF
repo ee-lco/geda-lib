@@ -1,0 +1,12 @@
+attr    footprint=cp-radial-400.fp
+attr    capacitance=0.1µ
+attr    tolerance=±10%
+attr    voltage-rating=630VDC
+attr    case-style=radial
+attr    case-length=18.5mm
+attr    case-width=6.3mm
+attr    case-height=14.0mm
+attr    lead-spacing=10.0mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECQ-E6104KF
+attr    mouser-pn=667-ECQ-E6104KF

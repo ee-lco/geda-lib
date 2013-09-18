@@ -1,0 +1,8 @@
+attr    footprint=to220ab.fp
+attr    pinmap=ADJ=1
+attr    pinmap=OUT=2
+attr    pinmap=INP=3
+attr    manuf=Fairchild
+attr    manuf-pn=LM317T
+attr    digikey-pn=LM317TFS-ND
+attr    mouser-pn=512-LM317T

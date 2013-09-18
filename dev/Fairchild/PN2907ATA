@@ -1,0 +1,8 @@
+attr    footprint=to92s.fp
+attr    pinmap=C=1
+attr    pinmap=B=2
+attr    pinmap=E=3
+attr    manuf=Fairchild
+attr    manuf-pn=PN2907ATA
+attr    digikey-pn=PN2907ATACT-ND
+attr    mouser-pn=512-PN2907ATA

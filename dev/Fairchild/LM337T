@@ -1,0 +1,8 @@
+attr    footprint=to220ab.fp
+attr    pinmap=ADJ=1
+attr    pinmap=INP=2
+attr    pinmap=OUT=3
+attr    manuf=Fairchild
+attr    manuf-pn=LM337T
+attr    digikey-pn=LM337TFS-ND
+attr    mouser-pn=512-LM337T

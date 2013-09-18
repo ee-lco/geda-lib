@@ -1,0 +1,11 @@
+attr    footprint=dip-6.fp
+attr    pinmap=A=1
+attr    pinmap=K=2
+attr    pinmap=NC1=3
+attr    pinmap=MT1=4
+attr    pinmap=NC2=5
+attr    pinmap=MT2=6
+attr    manuf=Fairchild
+attr    manuf-pn=MOC3020M
+attr    digikey-pn=MOC3020MFS-ND
+attr    mouser-pn=512-MOC3020M

@@ -1,0 +1,9 @@
+attr    footprint=c-disc-400.fp
+attr    voltage-rating=275VAC
+attr    case-style=disc
+attr    case-diameter=14mm
+attr    case-width=5.6mm
+attr    lead-spacing=8.5mm
+attr    manuf=Littelfuse
+attr    manuf-pn=V275LA20AP
+attr    mouser-pn=576-V275LA20AP

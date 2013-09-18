@@ -1,0 +1,11 @@
+attr    footprint=r-axial-2400.fp
+attr    resistance=0.2
+attr    tolerance=±1%
+attr    power-rating=10W
+attr    temp-co=0±90ppm/°C
+attr    case-style=axial
+attr    case-diameter=9.53mm
+attr    case-length=45.21mm
+attr    manuf=Vishay
+attr    manuf-pn=RS010R2000FE12
+attr    mouser-pn=71-RS010R2000FE12

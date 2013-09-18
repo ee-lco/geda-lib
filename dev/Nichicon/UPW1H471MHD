@@ -1,0 +1,12 @@
+attr    footprint=cp-can-200.fp
+attr    capacitance=470µ
+attr    tolerance=±20%
+attr    voltage-rating=50V
+attr    case-style=can
+attr    case-diameter=12.5mm
+attr    case-height=20mm
+attr    lead-spacing=5mm
+attr    manuf=Nichicon
+attr    manuf-pn=UPW1H471MHD
+attr    digikey-pn=493-1911-ND
+attr    mouser-pn=647-UPW1H471MHD

@@ -1,0 +1,7 @@
+attr    footprint=to220ac.fp
+attr    pinmap=K=1
+attr    pinmap=A=2
+attr    manuf=Vishay Semiconductors
+attr    manuf-pn=VS-MUR820PbF
+attr    digikey-pn=MUR820PBF-ND
+attr    mouser-pn=844-MUR820PBF

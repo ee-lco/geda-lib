@@ -1,0 +1,12 @@
+attr    footprint=cp-can-400.fp
+attr    capacitance=39000µ
+attr    tolerance=±20%
+attr    voltage-rating=25V
+attr    case-style=can
+attr    case-diameter=35mm
+attr    case-height=50mm
+attr    lead-spacing=10mm
+attr    manuf=United Chemi-Con
+attr    manuf-pn=ESMH250VSN393MA50T
+attr    digikey-pn=565-2642-ND
+attr    mouser-pn=661-ESMH250VSN393MA50T

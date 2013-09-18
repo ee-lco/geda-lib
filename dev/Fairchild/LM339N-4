@@ -1,0 +1,10 @@
+attr    footprint=dip-14.fp
+attr    pinmap=IN+=11
+attr    pinmap=IN-=10
+attr    pinmap=V+=3
+attr    pinmap=V-=12
+attr    pinmap=OUT=13
+attr    manuf=Fairchild
+attr    manuf-pn=LM339N
+attr    digikey-pn=LM339NFS-ND
+attr    mouser-pn=512-LM339N

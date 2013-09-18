@@ -1,0 +1,12 @@
+attr    footprint=cp-can-400.fp
+attr    capacitance=2700µ
+attr    tolerance=±20%
+attr    voltage-rating=160V
+attr    case-style=can
+attr    case-diameter=35mm
+attr    case-height=40mm
+attr    lead-spacing=10mm
+attr    manuf=United Chemi-Con
+attr    manuf-pn=EKMQ161VSN272MA40S
+attr    digikey-pn=565-2947-ND
+attr    mouser-pn=661-EKMQ161VSN272MA40S

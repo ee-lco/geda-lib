@@ -1,0 +1,13 @@
+attr    footprint=cp-radial-600.fp
+attr    capacitance=0.1µ
+attr    tolerance=±20%
+attr    voltage-rating=275VAC
+attr    standard-rating=X2
+attr    case-style=radial
+attr    case-length=17.5mm
+attr    case-width=5.0mm
+attr    case-height=12.0mm
+attr    lead-spacing=15.0mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECW-FA2J104J
+attr    mouser-pn=667-ECW-FA2J104J

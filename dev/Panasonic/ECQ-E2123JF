@@ -1,0 +1,12 @@
+attr    footprint=cp-radial-300.fp
+attr    capacitance=0.012µ
+attr    tolerance=±5%
+attr    voltage-rating=250VDC
+attr    case-style=radial
+attr    case-length=10.3mm
+attr    case-width=4.4mm
+attr    case-height=7.5mm
+attr    lead-spacing=7.5mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECQ-E2123JF
+attr    mouser-pn=667-ECQ-E2123JF

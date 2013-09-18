@@ -1,0 +1,12 @@
+attr    footprint=dip-8.fp
+attr    pinmap=VCC=1
+attr    pinmap=S1=2
+attr    pinmap=S2=3
+attr    pinmap=I=4
+attr    pinmap=EN=5
+attr    pinmap=IOUT=6
+attr    pinmap=GND=7
+attr    pinmap=OUT=8
+attr    manuf=ON Semiconductor
+attr    manuf-pn=MC3423P1
+attr    mouser-pn=863-MC3423P1

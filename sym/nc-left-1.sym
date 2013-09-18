@@ -1,0 +1,23 @@
+v 20121203 2
+T 400 300 9 16 1 0 0 7 1
+NC
+T -1000 100 8 10 0 0 0 0 1
+value=NoConnection
+T -1000 300 8 10 0 0 0 0 1
+documentation=nc.pdf
+T -1000 500 8 10 0 0 0 0 1
+device=DRC_Directive
+T -500 -400 8 10 0 0 0 0 1
+graphical=1
+L 500 600 500 0 3 10 2 0 -1 -1
+P 800 300 500 300 1 0 0
+{
+T 800 300 5 10 0 0 90 0 1
+pintype=pas
+T 445 295 5 10 0 0 0 6 1
+pinlabel=1
+T 595 345 5 10 0 0 0 0 1
+pinnumber=1
+T 800 300 5 10 0 0 90 0 1
+pinseq=1
+}

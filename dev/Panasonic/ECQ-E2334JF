@@ -1,0 +1,12 @@
+attr    footprint=cp-radial-400.fp
+attr    capacitance=0.33µ
+attr    tolerance=±5%
+attr    voltage-rating=250VDC
+attr    case-style=radial
+attr    case-length=12.0mm
+attr    case-width=6.5mm
+attr    case-height=13.0mm
+attr    lead-spacing=10.0mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECQ-E2334JF
+attr    mouser-pn=667-ECQ-E2334JF

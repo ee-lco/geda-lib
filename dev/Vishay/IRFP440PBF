@@ -1,0 +1,8 @@
+attr    footprint=to247.fp
+attr    pinmap=G=1
+attr    pinmap=D=2
+attr    pinmap=S=3
+attr    manuf=Vishay Siliconix
+attr    manuf-pn=IRFP440PBF
+attr    digikey-pn=IRFP440PBF-ND
+attr    mouser-pn=844-IRFP440PBF

@@ -1,0 +1,9 @@
+attr footprint=to220ab.fp
+attr pinmap=G=3
+attr pinmap=D=1
+attr pinmap=S=2
+attr manuf=pietje
+attr manuf-pn=pietje-nmis
+attr digikey-pn=nincs-ND
+attr mouser-pn=666-nincs
+
