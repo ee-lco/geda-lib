@@ -1,0 +1,11 @@
+attr    footprint=r-axial-400.fp
+attr    resistance=1
+attr    tolerance=±1%
+attr    power-rating=1/4W
+attr    temp-co=0±100ppm/°C
+attr    case-style=axial
+attr    case-diameter=2.3mm
+attr    case-length=7.1mm
+attr    manuf=KOA Speer
+attr    manuf-pn=MF1/4DC1R00F
+attr    mouser-pn=660-MF1/4DC1R00F

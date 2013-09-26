@@ -1,0 +1,14 @@
+attr    footprint=c-radial-400.fp
+attr    capacitance=4700p
+attr    tolerance=±20%
+attr    voltage-rating=500VAC
+attr    temp-char=Y5U
+attr    safety-rating=X1Y1
+attr    case-style=disc
+attr    case-diamer=16.0mm
+attr    case-width=5.0mm
+attr    lead-spacing=2.5mm
+attr    manuf=Vishay
+attr    manuf-pn=VY1472M63Y5UQ63V0
+attr    digikey-pn=BC2379-ND
+attr    mouser-pn=72-VY1472M63Y5UQ63V0

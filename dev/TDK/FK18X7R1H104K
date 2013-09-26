@@ -1,0 +1,14 @@
+attr    footprint=c-radial-100.fp
+attr    capacitance=0.1µ
+attr    tolerance=±10%
+attr    voltage-rating=50V
+attr    temp-char=X7R
+attr    temp-co=±15%
+attr    case-style=axial
+attr    case-length=4.0mm
+attr    case-width=2.5mm
+attr    case-height=5.5mm
+attr    lead-spacing=2.5mm
+attr    manuf=TDK
+attr    manuf-pn=FK18X7R1H104K
+attr    mouser-pn=810-FK18X7R1H104K
