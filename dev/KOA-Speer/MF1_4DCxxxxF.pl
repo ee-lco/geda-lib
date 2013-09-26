@@ -57,7 +57,7 @@ my $rmin = 10;
 my $rmax = 2210000;
 
 foreach my $m (-1, 0, 1, 2, 3, 4) {
-    foreach my $e (@{$e_values{24}}) {
+    foreach my $e (@{$e_values{24}}, @{$e_values{96}}) {
         my $r = $e * (10 ** $m);
         next if ($r < $rmin || $r > $rmax);
 
