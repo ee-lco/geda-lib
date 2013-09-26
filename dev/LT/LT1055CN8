@@ -1,0 +1,11 @@
+attr    footprint=dip-8.fp
+attr    pinmap=IN+=3
+attr    pinmap=IN-=2
+attr    pinmap=V+=7
+attr    pinmap=V-=4
+attr    pinmap=OUT=6
+attr    pinmap=BAL1=1
+attr    pinmap=BAL2=5
+attr    manuf=Linear Technology
+attr    manuf-pn=LT1055CN8
+attr    digikey-pn=LT1055CN8#PBF-ND
