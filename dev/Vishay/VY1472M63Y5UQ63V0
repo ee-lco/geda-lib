@@ -1,4 +1,4 @@
-attr    footprint=c-radial-400.fp
+attr    footprint=C_RADIAL_400.fp
 attr    capacitance=4700p
 attr    tolerance=±20%
 attr    voltage-rating=500VAC

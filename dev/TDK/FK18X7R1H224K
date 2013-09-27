@@ -1,4 +1,4 @@
-attr    footprint=c-radial-100.fp
+attr    footprint=C_RADIAL_100.fp
 attr    capacitance=0.22µ
 attr    tolerance=±10%
 attr    voltage-rating=50V

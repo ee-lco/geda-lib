@@ -1,4 +1,4 @@
-attr    footprint=r-axial-800.fp
+attr    footprint=R_AXIAL_800.fp
 attr    resistance=1k
 attr    tolerance=±1%
 attr    power-rating=1W

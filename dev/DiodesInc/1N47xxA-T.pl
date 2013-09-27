@@ -8,7 +8,7 @@ for (my $t = 28; $t <= 61; $t++) {
     my $fh;
     open($fh, ">", "DiodesInc/${pn}-T");
     print $fh <<"EOT";
-attr    footprint=d-do-41.fp
+attr    footprint=D_DO_41.fp
 attr    pinmap=K=1
 attr    pinmap=A=2
 attr    manuf=Diodes Inc

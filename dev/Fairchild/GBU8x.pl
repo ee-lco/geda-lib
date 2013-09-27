@@ -8,7 +8,7 @@ foreach my $t ("A", "B", "D", "G", "J", "K", "M") {
     my $fh;
     open($fh, ">", "Fairchild/${pn}");
     print $fh <<"EOT";
-attr    footprint=d-gbu.fp
+attr    footprint=D_GBU.fp
 attr    pinmap=P=1
 attr    pinmap=AC1=2
 attr    pinmap=AC2=3

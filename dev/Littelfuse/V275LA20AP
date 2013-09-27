@@ -1,4 +1,4 @@
-attr    footprint=c-disc-400.fp
+attr    footprint=C_DISC_400.fp
 attr    voltage-rating=275VAC
 attr    case-style=disc
 attr    case-diameter=14mm

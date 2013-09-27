@@ -1,4 +1,4 @@
-attr    footprint=dip-8.fp
+attr    footprint=DIP_8.fp
 attr    pinmap=VCC=1
 attr    pinmap=S1=2
 attr    pinmap=S2=3

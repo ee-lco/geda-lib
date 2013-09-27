@@ -1,4 +1,4 @@
-attr    footprint=to220ac.fp
+attr    footprint=TO220AC.fp
 attr    pinmap=K=1
 attr    pinmap=A=2
 attr    manuf=Vishay Semiconductors

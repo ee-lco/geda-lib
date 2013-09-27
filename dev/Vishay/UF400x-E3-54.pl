@@ -8,7 +8,7 @@ foreach my $t ("1", "2", "3", "4", "5", "6", "7") {
     my $fh;
     open($fh, ">", "Vishay/${pn}-E3-54");
     print $fh <<"EOT";
-attr    footprint=d-do-41.fp
+attr    footprint=D_DO_41.fp
 attr    pinmap=K=1
 attr    pinmap=A=2
 attr    manuf=Vishay General Semiconductor

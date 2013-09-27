@@ -1,4 +1,4 @@
-attr    footprint=cp-radial-500.fp
+attr    footprint=CP_RADIAL_500.fp
 attr    capacitance=0.047µ
 attr    tolerance=±3%
 attr    voltage-rating=800VDC

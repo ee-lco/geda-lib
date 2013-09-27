@@ -8,7 +8,7 @@ foreach my $t ("05", "1", "2", "4", "6", "8", "10") {
     my $fh;
     open($fh, ">", "MicroCommercial/${pn}");
     print $fh <<"EOT";
-attr    footprint=d-axial-800.fp
+attr    footprint=D_AXIAL_800.fp
 attr    pinmap=A=1
 attr    pinmap=K=2
 attr    manuf=Micro Commercial Components

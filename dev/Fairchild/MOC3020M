@@ -1,4 +1,4 @@
-attr    footprint=dip-6.fp
+attr    footprint=DIP_6.fp
 attr    pinmap=A=1
 attr    pinmap=K=2
 attr    pinmap=NC1=3

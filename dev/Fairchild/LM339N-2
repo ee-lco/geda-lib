@@ -1,4 +1,4 @@
-attr    footprint=dip-14.fp
+attr    footprint=DIP_14.fp
 attr    pinmap=IN+=7
 attr    pinmap=IN-=6
 attr    pinmap=V+=3

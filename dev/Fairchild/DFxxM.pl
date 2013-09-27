@@ -8,7 +8,7 @@ foreach my $t ("005", "01", "02", "03", "04", "06", "08", "10") {
     my $fh;
     open($fh, ">", "Fairchild/${pn}");
     print $fh <<"EOT";
-attr    footprint=edip-4.fp
+attr    footprint=EDIP_4.fp
 attr    pinmap=P=1
 attr    pinmap=N=2
 attr    pinmap=AC1=3

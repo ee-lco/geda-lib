@@ -10,7 +10,7 @@ foreach my $v (5, 8, 9, 10, 12, 15, 18) {
         my $fh;
         open($fh, ">", "Fairchild/${pn}");
         print $fh <<"EOT";
-attr    footprint=to220ab.fp
+attr    footprint=TO220AB.fp
 attr    pinmap=GND=1
 attr    pinmap=INP=2
 attr    pinmap=OUT=3

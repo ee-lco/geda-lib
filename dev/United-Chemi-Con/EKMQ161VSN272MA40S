@@ -1,4 +1,4 @@
-attr    footprint=cp-can-400.fp
+attr    footprint=CP_CAN_400.fp
 attr    capacitance=2700µ
 attr    tolerance=±20%
 attr    voltage-rating=160V

@@ -1,4 +1,4 @@
-attr    footprint=to247.fp
+attr    footprint=TO247.fp
 attr    pinmap=G=1
 attr    pinmap=D=2
 attr    pinmap=S=3

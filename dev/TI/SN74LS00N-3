@@ -1,4 +1,4 @@
-attr    footprint=dip-14.fp
+attr    footprint=DIP_14.fp
 attr    pinmap=A=9
 attr    pinmap=B=10
 attr    pinmap=Y=8

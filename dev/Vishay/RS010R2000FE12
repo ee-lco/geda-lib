@@ -1,4 +1,4 @@
-attr    footprint=r-axial-2400.fp
+attr    footprint=R_AXIAL_2400.fp
 attr    resistance=0.2
 attr    tolerance=±1%
 attr    power-rating=10W

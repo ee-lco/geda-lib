@@ -1,4 +1,4 @@
-attr    footprint=cp-can-80.fp
+attr    footprint=CP_CAN_80.fp
 attr    capacitance=1µ
 attr    tolerance=±20%
 attr    voltage-rating=50V

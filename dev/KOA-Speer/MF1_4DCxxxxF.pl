@@ -79,7 +79,7 @@ foreach my $m (-1, 0, 1, 2, 3, 4) {
         my $fh;
         open($fh, ">", "KOA-Speer/MF1_4DC${pn}F");
         print $fh <<"EOT";
-attr    footprint=r-axial-400.fp
+attr    footprint=R_AXIAL_400.fp
 attr    resistance=${ru}
 attr    tolerance=±1%
 attr    power-rating=1/4W

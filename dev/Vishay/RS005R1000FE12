@@ -1,4 +1,4 @@
-attr    footprint=r-axial-1200.fp
+attr    footprint=R_AXIAL_1200.fp
 attr    resistance=0.1
 attr    tolerance=±1%
 attr    power-rating=5W
