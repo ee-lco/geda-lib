@@ -1,8 +1,0 @@
-attr    footprint=TO247.fp
-attr    pinmap=G=1
-attr    pinmap=D=2
-attr    pinmap=S=3
-attr    manuf=IRF
-attr    manuf-pn=IRFP044NPbF
-attr    digikey-pn=IRFP044NPBF-ND
-attr    mouser-pn=942-IRFP044NPBF
