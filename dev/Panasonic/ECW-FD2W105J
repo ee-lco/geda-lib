@@ -1,4 +1,4 @@
-attr    footprint=CP_RADIAL_600.fp
+attr    footprint=C_RADIAL_600.fp
 attr    capacitance=1µ
 attr    tolerance=±5%
 attr    voltage-rating=450VDC
