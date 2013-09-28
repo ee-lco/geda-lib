@@ -12,8 +12,8 @@ foreach my $t ("6", "8") {
     open($fh, ">", "ST/${pn}RG");
     print $fh <<"EOT";
 attr    footprint=TO220AB.fp
-attr    pinmap=K=1
-attr    pinmap=A=2
+attr    pinmap=A=1
+attr    pinmap=K=2
 attr    pinmap=G=3
 attr    manuf=ST
 attr    manuf-pn=${pn}RG
