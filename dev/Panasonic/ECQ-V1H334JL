@@ -1,0 +1,12 @@
+attr    footprint=C_RADIAL_200.fp
+attr    capacitance=0.33µ
+attr    tolerance=±5%
+attr    voltage-rating=50V
+attr    case-style=radial
+attr    case-length=7.3mm
+attr    case-width=5.2mm
+attr    case-height=7.0mm
+attr    lead-spacing=5.0mm
+attr    manuf=Panasonic
+attr    manuf-pn=ECQ-V1H334JL
+attr    mouser-pn=667-ECQ-V1H334JL
