@@ -1,4 +1,4 @@
-attr    footprint=TO92S.fp
+attr    footprint=TO92B.fp
 attr    pinmap=C=1
 attr    pinmap=B=2
 attr    pinmap=E=3
