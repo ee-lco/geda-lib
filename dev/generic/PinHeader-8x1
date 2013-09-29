@@ -1,0 +1,14 @@
+attr    footprint=HEADER_8S.fp
+attr    numslots=8
+attr    slotdef=1:1
+attr    slotdef=2:2
+attr    slotdef=3:3
+attr    slotdef=4:4
+attr    slotdef=5:5
+attr    slotdef=6:6
+attr    slotdef=7:7
+attr    slotdef=8:8
+attr    pitch=2.54mm
+attr    num-contacts=8
+attr    num-rows=1
+attr    mounting-angle=vertical
