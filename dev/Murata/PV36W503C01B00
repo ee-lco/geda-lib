@@ -1,0 +1,14 @@
+attr    footprint=TRIMMER_TOP.fp
+attr    resistance=50k
+attr    tolerance=10%
+attr    power-rating=500mW
+attr    temp-co=0±180ppm/°C
+attr    turns=25
+attr    taper=linear
+attr    case-style=radial
+attr    case-length=9.6mm
+attr    case-width=5.0mm
+attr    case-height=10.0mm
+attr    manuf=Murata
+attr    manuf-pn=PV36W503C01B00
+attr    mouser-pn=81-PV36W503C01B00
