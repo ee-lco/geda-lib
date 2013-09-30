@@ -1,4 +1,7 @@
 attr    footprint=TRIMMER_TOP.fp
+attr    pinmap=CCW=1
+attr    pinmap=WIPER=2
+attr    pinmap=CW=3
 attr    resistance=50k
 attr    tolerance=10%
 attr    power-rating=500mW
