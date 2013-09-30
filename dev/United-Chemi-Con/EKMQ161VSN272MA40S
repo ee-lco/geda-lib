@@ -1,4 +1,4 @@
-attr    footprint=CP_CAN_400.fp
+attr    footprint=CP_CAN_SNAP.fp
 attr    pinmap=P=1
 attr    pinmap=N=2
 attr    capacitance=2700µ
