@@ -1,0 +1,5 @@
+attr    footprint=DIP_14.fp
+attr    manuf=Fairchild
+attr    manuf-pn=LM339N
+attr    digikey-pn=LM339NFS-ND
+attr    mouser-pn=512-LM339N

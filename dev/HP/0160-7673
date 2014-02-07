@@ -1,7 +1,4 @@
-hp-description=CAP-FXD .047UF +-10% 100V POLYP-MET
-CAP-FXD .047UF +-10% 100V POLYP-MET
-hp-manuf-code=28480
-28480
-hp-manuf-pn=
-
+attr    hp-description=CAP-FXD .047UF +-10% 100V POLYP-MET
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include Panasonic/ECW-H8473HA

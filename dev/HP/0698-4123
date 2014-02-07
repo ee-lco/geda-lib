@@ -1,7 +1,4 @@
-hp-description=RESISTOR 499 +-1% .125W TF TC=0+-100
-RESISTOR 499 +-1% .125W TF TC=0+-100
-hp-manuf-code=28480
-28480
-hp-manuf-pn=
-
+attr    hp-description=RESISTOR 499 +-1% .125W TF TC=0+-100
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include KOA-Speer/MF1_4DC4990F

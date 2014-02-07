@@ -1,4 +1,4 @@
-hp-description=DIODE-FW BRIDGE 100V 1A
-hp-manuf-code=14936
-hp-manuf-pn=DF01
+attr    hp-description=DIODE-FW BRIDGE 100V 1A
+attr    hp-manuf-code=14936
+attr    hp-manuf-pn=DF01
 include Fairchild/DF01M

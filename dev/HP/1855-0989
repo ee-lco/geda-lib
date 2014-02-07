@@ -1,4 +1,4 @@
-hp-description=TRANSISTOR MOSFET N-CHAN E-MODE TO 247AC
-hp-manuf-code=28480
-hp-manuf-pn=IRFP044
+attr    hp-description=TRANSISTOR MOSFET N-CHAN E-MODE TO 247AC
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=IRFP044
 include IRF/IRFP044NPBF

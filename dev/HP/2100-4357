@@ -1,4 +1,4 @@
-hp-description=RESISTOR-VAR 10K +-10%
-hp-manuf-code=32997
-hp-manuf-pn=
+attr    hp-description=RESISTOR-VAR 10K +-10%
+attr    hp-manuf-code=32997
+attr    hp-manuf-pn=
 include Murata/PV36W103C01B00

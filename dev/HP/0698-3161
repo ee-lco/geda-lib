@@ -1,4 +1,4 @@
-hp-description=RESISTOR 38.3K +-1% .125W TF TC=0+-100
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=RESISTOR 38.3K +-1% .125W TF TC=0+-100
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include KOA-Speer/MF1_4DC3832F

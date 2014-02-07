@@ -1,4 +1,4 @@
-hp-description=TRANSISTOR PNP 2N2907A SI TO-18 PD=400MW
-hp-manuf-code=04713
-hp-manuf-pn=2N2907A
+attr    hp-description=TRANSISTOR PNP 2N2907A SI TO-18 PD=400MW
+attr    hp-manuf-code=04713
+attr    hp-manuf-pn=2N2907A
 include Fairchild/PN2907ATA

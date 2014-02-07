@@ -1,4 +1,4 @@
-hp-description=CAP-FXD 330UF +-20% 35V AL-ELECTLT
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=CAP-FXD 330UF +-20% 35V AL-ELECTLT
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include Nichicon/UPW1V331MPD

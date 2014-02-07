@@ -1,4 +1,4 @@
-hp-description=RESISTOR 2.6K +-5% 3W PWI TC=0+-20
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=RESISTOR 2.6K +-5% 3W PWI TC=0+-20
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include Vishay/AC03000002701JAC00

@@ -1,4 +1,2 @@
-hp-description=IC OP AMP LOW-BIAS-H-IMPD QUAD 14 PIN
-hp-manuf-code=27014
-hp-manuf-pn=LF347BN
+include HP/1826-0665
 include TI/LF347BN-4

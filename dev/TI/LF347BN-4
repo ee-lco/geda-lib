@@ -1,10 +1,6 @@
-attr    footprint=DIP_14.fp
 attr    pinmap=IN+=12
 attr    pinmap=IN-=13
 attr    pinmap=V+=4
 attr    pinmap=V-=11
 attr    pinmap=OUT=14
-attr    manuf=Texas Instruments
-attr    manuf-pn=LF347BN
-attr    digikey-pn=296-33303-5-ND
-attr    mouser-pn=595-LF347BN
+include TI/LF347BN

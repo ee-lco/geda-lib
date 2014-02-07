@@ -1,4 +1,4 @@
-hp-description=CAP-FXD 47UF +-20% 50V AL-ELECTLT
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=CAP-FXD 47UF +-20% 50V AL-ELECTLT
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include Nichicon/UPW1H470MED

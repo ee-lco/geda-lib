@@ -1,4 +1,4 @@
-hp-description=RESISTOR 45K +-5% 2W MO TC=0+-500PPM
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=RESISTOR 45K +-5% 2W MO TC=0+-500PPM
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include TT-Electronics/CMO24702JLFTR

@@ -1,4 +1,2 @@
-hp-description=IC COMPARATOR GP QUAD 14 PIN DIP-P
-hp-manuf-code=27014
-hp-manuf-pn=LM339
+include HP/1826-0138
 include Fairchild/LM339N-2

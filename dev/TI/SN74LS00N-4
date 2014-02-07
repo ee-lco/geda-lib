@@ -1,10 +1,6 @@
-attr    footprint=DIP_14.fp
 attr    pinmap=A=12
 attr    pinmap=B=13
 attr    pinmap=Y=11
 attr    pinmap=VCC=14
 attr    pinmap=GND=7
-attr    manuf=Texas Instruments
-attr    manuf-pn=SN74LS00N
-attr    digikey-pn=296-1626-5-ND
-attr    mouser-pn=595-SN74LS00N
+include TI/SN74LS00N

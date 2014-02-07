@@ -1,0 +1,5 @@
+attr    footprint=DIP_8.fp
+attr    manuf=Fairchild
+attr    manuf-pn=LM358N
+attr    digikey-pn=LM358NFS-ND
+attr    mouser-pn=512-LM358N

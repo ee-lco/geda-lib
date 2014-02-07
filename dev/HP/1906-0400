@@ -1,4 +1,4 @@
-hp-description=DIODE-BRIDGE 600V 6A
-hp-manuf-code=14936
-hp-manuf-pn=GBU8J
+attr    hp-description=DIODE-BRIDGE 600V 6A
+attr    hp-manuf-code=14936
+attr    hp-manuf-pn=GBU8J
 include Fairchild/GBU8J

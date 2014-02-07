@@ -1,4 +1,4 @@
-hp-description=TRANSISTOR PNP SI TO-39 PD=1W FT=60MHZ
-hp-manuf-code=04713
-hp-manuf-pn=MM5007
+attr    hp-description=TRANSISTOR PNP SI TO-39 PD=1W FT=60MHZ
+attr    hp-manuf-code=04713
+attr    hp-manuf-pn=MM5007
 include Fairchild/BC640TA

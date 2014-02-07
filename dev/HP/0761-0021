@@ -1,4 +1,4 @@
-hp-description=RESISTOR 1K +-5% 1W TF TC=0+-100
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=RESISTOR 1K +-5% 1W TF TC=0+-100
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include KOA-Speer/MF1DCT521R1001F

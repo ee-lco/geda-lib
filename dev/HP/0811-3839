@@ -1,4 +1,4 @@
-hp-description=RESISTOR 0.2 +-1% 5W PWN TC=0+-90
-hp-manuf-code=28480
-hp-manuf-pn=
+attr    hp-description=RESISTOR 0.2 +-1% 5W PWN TC=0+-90
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include Vishay/RS005R2000FE12

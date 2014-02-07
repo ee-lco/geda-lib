@@ -1,10 +1,4 @@
-hp-description=CAP-FXD 0.01UF +-10% 100V CER X7R
-CAP-FXD 0.01UF +-10% 100V CER X7R
-CAP-FXD 0.01UF +-10% 100V CER X7R
-hp-manuf-code=28480
-28480
-28480
-hp-manuf-pn=
-
-
+attr    hp-description=CAP-FXD 0.01UF +-10% 100V CER X7R
+attr    hp-manuf-code=28480
+attr    hp-manuf-pn=
 include TDK/FK18X7R2A103K

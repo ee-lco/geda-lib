@@ -1,4 +1,4 @@
-hp-description=IC V RGLTR-FXD-NEG -11.5/-12.5V TO-220
-hp-manuf-code=04713
-hp-manuf-pn=MC7912CT
+attr    hp-description=IC V RGLTR-FXD-NEG -11.5/-12.5V TO-220
+attr    hp-manuf-code=04713
+attr    hp-manuf-pn=MC7912CT
 include Fairchild/LM7912CT

@@ -1,4 +1,4 @@
-hp-description=IC V RGLTR-FXD-POS 4.8/5.2V TO-220 PKG
-hp-manuf-code=04713
-hp-manuf-pn=MC7805CT
+attr    hp-description=IC V RGLTR-FXD-POS 4.8/5.2V TO-220 PKG
+attr    hp-manuf-code=04713
+attr    hp-manuf-pn=MC7805CT
 include Fairchild/LM7805CT
