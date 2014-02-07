@@ -1,1 +1,7 @@
+hp-description=DIODE-PWR RECT 400V 1A 50NS DO-41
+DIODE-PWR RECT 400V 1A 50NS DO-41
+hp-manuf-code=14936
+14936
+hp-manuf-pn=UF4004
+UF4004
 include Vishay/UF4004-E3-54

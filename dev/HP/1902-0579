@@ -1,1 +1,4 @@
+hp-description=DIODE-ZNR 5.1V 5% PD=1W IR=10UA
+hp-manuf-code=04713
+hp-manuf-pn=1N4733APL
 include DiodesInc/1N4733A-T

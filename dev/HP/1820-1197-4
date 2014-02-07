@@ -1,1 +1,4 @@
+hp-description=IC GATE TTL/LS NAND QUAD 2-INP
+hp-manuf-code=01295
+hp-manuf-pn=SN74LS00N
 include TI/SN74LS00N-4

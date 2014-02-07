@@ -1,1 +1,10 @@
+hp-description=RESISTOR 0.6 +-5% 5W PWN TC=0+-90
+RESISTOR 1.5 +-1% 5W PWN TC=0+-90
+RESISTOR 0.604 +-1% 5W PWN TC=0+-90
+hp-manuf-code=28480
+28480
+28480
+hp-manuf-pn=
+
+
 include Vishay/RW74UR604FB12
