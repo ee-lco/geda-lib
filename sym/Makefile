@@ -1,26 +1,30 @@
 
 .DEFAULT_GOAL := all
 
-SRCDIR=./
-LIBDIR=./
-
-ifneq ($(SRCDIR),$(LIBDIR))
-$(LIBDIR)%.sym: $(SRCDIR)%.sym
-	@mkdir -p $(@D)
-	cp $< $@
-
-SYMBOLS+=$(subst $(SRCDIR),$(LIBDIR),$(wildcard $(SRCDIR)*.sym))
-endif
-
-define TT_recipe
-SYMBOLS+=$(LIBDIR)$(2).sym
-$(LIBDIR)$(2).sym: $(SRCDIR)$(1).tt
-	@mkdir -p $$(@D)
-	tpage $(foreach var,$(3),--define $(var) ) $$< > $$@
-endef
-
-include $(wildcard $(SRCDIR)*.mk)
+SRCDIR ?= $(dir $(lastword $(MAKEFILE_LIST)))
+VPATH  := $(SRCDIR)
 
 .PHONY: all
-all: $(SYMBOLS)
+all: copy gen
+
+.PHONY: copy
+copy: $(patsubst $(SRCDIR)%,$(CURDIR)/%,$(shell find $(SRCDIR) -name '*.sym'))
+
+$(CURDIR)/%.sym: %.sym
+	@mkdir -p $(dir $@)
+	cp $< $@
+
+.PHONY: gen
+gen:
+
+define TT_recipe
+gen: $(2).sym
+
+$(2).sym: $(1).tt
+	@mkdir -p $$(dir $$@)
+	tpage $(foreach var,$(3),--define $(var) ) $$< > $$@
+
+endef
+
+include $(shell find $(SRCDIR) -name '*.mk')
 
