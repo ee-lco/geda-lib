@@ -1,4 +1,3 @@
 attr    hp-description=RESISTOR 1.78 +-1% 5W PWN TC=0+-90
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Vishay/RW74U1R75FB12

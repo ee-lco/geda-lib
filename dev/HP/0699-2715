@@ -1,4 +1,3 @@
 attr    hp-description=RESISTOR-FUSE 1OHM +-5% 0.5W @70
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Vishay/NFR25H0001008JA500

@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 0.33UF +-10% 250V POLYE-MET
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Panasonic/ECQ-E2334JF

@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD .1UF +-10% 630V POLYE-FL
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Panasonic/ECQ-E6104KF

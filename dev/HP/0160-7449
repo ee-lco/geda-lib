@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 0.33UF +-10% 50V POLYE-FL
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Panasonic/ECQ-V1H334JL

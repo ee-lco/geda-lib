@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 100PF +-5% 100V CER COG
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include TDK/FK18C0G2A101J

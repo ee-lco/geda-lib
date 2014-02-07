@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 1000UF 25V +-20% AL-ELECTLT
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Nichicon/UPW1H102MHD

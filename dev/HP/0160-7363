@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 1UF +-10% 250V POLYP-MET
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Panasonic/ECW-FD2W105J

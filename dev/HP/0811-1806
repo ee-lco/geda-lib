@@ -1,4 +1,3 @@
 attr    hp-description=RESISTOR 2K +-5% 3W PWI 20PPM
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Vishay/AC03000002001JAC00

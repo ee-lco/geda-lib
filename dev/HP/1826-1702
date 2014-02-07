@@ -1,4 +1,3 @@
 attr    hp-description=IC OP AMP PRCN 8 PIN DIP-P
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include LT/LT1055CN8

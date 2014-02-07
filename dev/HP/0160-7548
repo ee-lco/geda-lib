@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 2200PF +-10% 50V CER Y5P
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include TDK/FK24C0G2A222J

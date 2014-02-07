@@ -1,4 +1,2 @@
 attr    hp-description=CAP-FXD 0.22uF +-20% 50V CER
-attr    hp-manuf-code=
-attr    hp-manuf-pn=
 include TDK/FK18X7R1H224K

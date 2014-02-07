@@ -1,4 +1,3 @@
 attr    hp-description=CAP-FXD 0.1UF +-20% 250V PPR-MET
 attr    hp-manuf-code=28480
-attr    hp-manuf-pn=
 include Panasonic/ECQ-UAAF104M
