@@ -1,0 +1,12 @@
+attr    footprint=C_RADIAL_200.fp
+attr    capacitance=4700p
+attr    tolerance=±5%
+attr    voltage-rating=100V
+attr    case-style=radial
+attr    case-length=7.2mm
+attr    case-width=2.5mm
+attr    case-height=6.5mm
+attr    lead-spacing=5mm
+attr    manuf=Kemet
+attr    manuf-pn=PHE426DJ4470JR05
+attr    mouser-pn=80-PHE426DJ4470JR05

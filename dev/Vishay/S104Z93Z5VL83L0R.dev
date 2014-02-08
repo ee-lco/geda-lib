@@ -1,0 +1,12 @@
+attr    footprint=C_RADIAL_400.fp
+attr    capacitance=0.1µ
+attr    tolerance=-20%,+80%
+attr    voltage-rating=500V
+attr    temp-char=Z5V
+attr    case-style=disc
+attr    case-diamer=23.6mm
+attr    case-width=5.0mm
+attr    lead-spacing=10mm
+attr    manuf=Vishay
+attr    manuf-pn=S104Z93Z5VL83L0R
+attr    mouser-pn=594-S104Z93Z5VL83L0R

@@ -1,0 +1,12 @@
+attr    footprint=C_AXIAL_400.fp
+attr    capacitance=0.1µ
+attr    tolerance=±10%
+attr    voltage-rating=50V
+attr    temp-char=X7R
+attr    temp-co=±15%
+attr    case-style=axial
+attr    case-diameter=3.05mm
+attr    case-length=4.32mm
+attr    manuf=Kemet
+attr    manuf-pn=C412C104K5R5TA
+attr    mouser-pn=80-C412C104K5R

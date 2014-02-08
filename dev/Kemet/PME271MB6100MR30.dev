@@ -1,0 +1,13 @@
+attr    footprint=C_RADIAL_600.fp
+attr    capacitance=0.1µ
+attr    tolerance=±20%
+attr    voltage-rating=275VAC
+attr    standard-rating=X2
+attr    case-style=radial
+attr    case-length=18.5mm
+attr    case-width=8.5mm
+attr    case-height=14.3mm
+attr    lead-spacing=15.2mm
+attr    manuf=Kemet
+attr    manuf-pn=PME271MB6100MR30
+attr    mouser-pn=80-PME271MB6100MR30

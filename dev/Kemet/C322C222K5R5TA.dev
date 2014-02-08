@@ -1,0 +1,14 @@
+attr    footprint=C_RADIAL_200.fp
+attr    capacitance=2200p
+attr    tolerance=±10%
+attr    voltage-rating=50V
+attr    temp-char=X7R
+attr    temp-co=±15%
+attr    case-style=radial
+attr    case-length=6.6mm
+attr    case-width=5.08mm
+attr    case-height=3.18mm
+attr    lead-spacing=5.08mm
+attr    manuf=Kemet
+attr    manuf-pn=C322C222K5R5TA
+attr    mouser-pn=80-C322C222K5R
