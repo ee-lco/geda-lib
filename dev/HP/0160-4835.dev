@@ -1,3 +1,3 @@
 attr    hp-description=CAP-FXD .1UF +-10% 50V CER X7R
 attr    hp-manuf-code=28480
-include TDK/FK18X7R1H104K
+include Kemet/C412C104K5R5TA

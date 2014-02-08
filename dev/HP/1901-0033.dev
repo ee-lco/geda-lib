@@ -1,4 +1,4 @@
 attr    hp-description=DIODE-GEN PRP 180V 200MA DO-35
 attr    hp-manuf-code=27014
 attr    hp-manuf-pn=1N645
-include Fairchild/1N3070TR
+include Vishay/BAV20-TR

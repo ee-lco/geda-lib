@@ -1,4 +1,4 @@
 attr    hp-description=DIODE-PWR RECT 100V 6A 35NS
 attr    hp-manuf-code=14936
 attr    hp-manuf-pn=FE6B
-include Vishay/VS-MUR820PbF
+include Vishay/BYV98-100-TAP

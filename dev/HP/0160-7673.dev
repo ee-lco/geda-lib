@@ -1,3 +1,3 @@
 attr    hp-description=CAP-FXD .047UF +-10% 100V POLYP-MET
 attr    hp-manuf-code=28480
-include Panasonic/ECW-H8473HA
+include Nichicon/QYX2A473KTP
