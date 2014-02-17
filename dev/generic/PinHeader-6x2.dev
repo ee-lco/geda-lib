@@ -1,4 +1,4 @@
-attr    footprint=HEADER_12D_2.fp
+attr    footprint=HEADER_12D_HDR.fp
 attr    numslots=12
 attr    slotdef=1:1
 attr    slotdef=2:2
