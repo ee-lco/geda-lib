@@ -1,2 +1,2 @@
-attr    footprint=HEADER_6S.fp
+attr    footprint=HEADER_6D_PWR.fp
 attr    num-contacts=6
