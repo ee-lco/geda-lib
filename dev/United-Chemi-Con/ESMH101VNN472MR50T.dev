@@ -1,0 +1,14 @@
+attr    footprint=CP_CAN_SNAP.fp
+attr    pinmap=P=1
+attr    pinmap=N=2
+attr    capacitance=4700µ
+attr    tolerance=±20%
+attr    voltage-rating=100V
+attr    case-style=can
+attr    case-diameter=30mm
+attr    case-height=50mm
+attr    lead-spacing=10mm
+attr    manuf=United Chemi-Con
+attr    manuf-pn=ESMH101VNN472MR50T
+attr    digikey-pn=ESMH101VNN472MR50T-ND
+attr    mouser-pn=661-ESMH101VNN472MR5

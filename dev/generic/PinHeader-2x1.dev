@@ -1,0 +1,8 @@
+attr    footprint=HEADER_2S.fp
+attr    numslots=2
+attr    slotdef=1:1
+attr    slotdef=2:2
+attr    pitch=2.54mm
+attr    num-contacts=2
+attr    num-rows=1
+attr    mounting-angle=vertical

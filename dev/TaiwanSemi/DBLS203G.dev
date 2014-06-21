@@ -1,0 +1,5 @@
+attr    footprint=SMD510P1005X260-4N
+attr    pinmap=AC1=3
+attr    pinmap=AC2=4
+attr    pinmap=P=1
+attr    pinmap=N=2

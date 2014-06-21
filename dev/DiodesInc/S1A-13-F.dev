@@ -1,0 +1,3 @@
+attr    footprint=D_SMA.fp
+attr    pinmap=K=C
+attr    pinmap=A=A

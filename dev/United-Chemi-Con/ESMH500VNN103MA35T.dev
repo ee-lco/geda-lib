@@ -1,0 +1,14 @@
+attr    footprint=CP_CAN_SNAP.fp
+attr    pinmap=P=1
+attr    pinmap=N=2
+attr    capacitance=1000µ
+attr    tolerance=±20%
+attr    voltage-rating=50V
+attr    case-style=can
+attr    case-diameter=35mm
+attr    case-height=35mm
+attr    lead-spacing=10mm
+attr    manuf=United Chemi-Con
+attr    manuf-pn=ESMH500VNN103MA35T
+attr    digikey-pn=ESMH500VNN103MA35T-ND
+attr    mouser-pn=661-ESMH500VNN103MA3

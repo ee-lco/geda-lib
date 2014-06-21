@@ -1,0 +1,7 @@
+attr    footprint=TO220AB.fp
+attr    pinmap=ADJ=1
+attr    pinmap=INP=2
+attr    pinmap=OUT=3
+attr    manuf=ON Semiconductor
+attr    manuf-pn=LM337TG
+attr    farnell-pn=1211104

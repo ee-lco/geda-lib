@@ -1,0 +1,9 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=C=3
+attr    pinmap=B=1
+attr    pinmap=E=2
+attr    manuf=Diodes Inc
+attr    manuf-pn=MMBT2222A-7-F
+attr    digikey-pn=MMBT2222A-FDICT-ND
+attr    mouser-pn=621-MMBT2222A-F
+attr    farnell-pn=1773626

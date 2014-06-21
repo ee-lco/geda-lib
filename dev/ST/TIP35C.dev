@@ -1,0 +1,8 @@
+attr    footprint=TO247.fp
+attr    pinmap=G=1
+attr    pinmap=D=2
+attr    pinmap=S=3
+attr    manuf=ST
+attr    manuf-pn=TIP35C
+attr    digikey-pn=497-2609-5-ND
+attr    mouser-pn=511-TIP35C
