@@ -2,6 +2,7 @@
 .DEFAULT_GOAL := all
 
 SRCDIR ?= $(dir $(lastword $(MAKEFILE_LIST)))
+VPATH  := $(SRCDIR)
 
 FOOTPRINTS := $(patsubst $(SRCDIR)%,$(CURDIR)/%,$(shell find $(SRCDIR) -name '*.fp'))
 

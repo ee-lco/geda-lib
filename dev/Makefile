@@ -4,15 +4,20 @@
 SRCDIR ?= $(dir $(lastword $(MAKEFILE_LIST)))
 VPATH  := $(SRCDIR)
 
+DEVMAPS := $(patsubst $(SRCDIR)%.dev,$(CURDIR)/%,$(shell find $(SRCDIR) -name '*.dev'))
+
 .PHONY: all
-all: copy gen
+all: $(DEVMAPS) gen
 
-.PHONY: copy
-copy: $(patsubst $(SRCDIR)%.dev,$(CURDIR)/%,$(shell find $(SRCDIR) -name '*.dev'))
+define COPY
 
-$(CURDIR)/%: %.dev
-	@mkdir -p $(dir $@)
-	cp $< $@
+$(CURDIR)/$(1): $(SRCDIR)$(1).dev
+	@mkdir -p $$(dir $$@)
+	cp $$< $$@
+
+endef
+
+$(foreach dev,$(DEVMAPS),$(eval $(call COPY,$(patsubst $(CURDIR)/%,%,$(dev)))))
 
 .PHONY: gen
 gen: $(patsubst $(SRCDIR)%,.done/%.done,$(shell find $(SRCDIR) -name '*.pl'))
