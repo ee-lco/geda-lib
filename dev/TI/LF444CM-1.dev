@@ -1,0 +1,6 @@
+attr    pinmap=IN+=3
+attr    pinmap=IN-=2
+attr    pinmap=V+=11
+attr    pinmap=V-=4
+attr    pinmap=OUT=1
+include TI/LF444CM

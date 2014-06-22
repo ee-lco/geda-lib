@@ -1,0 +1,7 @@
+attr    footprint=SOIC_8.fp
+attr    pinmap=A=4
+attr    pinmap=K=8
+attr    pinmap=ADJ=5
+attr    manuf=Texas Instruments
+attr    manuf-pn=LM336BMX-5.0/NOPB
+attr    mouser-pn=926-LM336BMX50/NOPB

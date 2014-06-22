@@ -1,0 +1,6 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=K=3
+attr    pinmap=A=1
+attr    manuf=Fairchild
+attr    manuf-pn=MMBD1501A
+attr    mouser-pn=512-MMBD1501A

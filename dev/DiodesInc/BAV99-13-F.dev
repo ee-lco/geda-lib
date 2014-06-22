@@ -1,0 +1,9 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=K=3
+attr    pinmap=A=1
+attr    pinmap=A1=1
+attr    pinmap=KA=3
+attr    pinmap=K2=2
+attr    manuf=Diodes Inc
+attr    manuf-pn=BAV99-13-F
+attr    mouser-pn=621-BAV99-13-F

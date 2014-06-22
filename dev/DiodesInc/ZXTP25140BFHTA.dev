@@ -1,0 +1,7 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=C=3
+attr    pinmap=B=1
+attr    pinmap=E=2
+attr    manuf=Diodes Inc
+attr    manuf-pn=ZXTP25140BFHTA
+attr    mouser-pn=621-ZXTP25140BFHTA
