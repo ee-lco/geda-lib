@@ -1,4 +1,4 @@
-attr    footprint=SOP509P1005X260-4N.fp
+attr    footprint=TS_DBLS.fp
 attr    pinmap=AC1=3
 attr    pinmap=AC2=4
 attr    pinmap=P=1
