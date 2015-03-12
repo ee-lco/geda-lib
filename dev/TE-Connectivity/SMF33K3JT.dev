@@ -1,5 +1,5 @@
 attr    footprint=TE_SM_3.fp
-attr    resistance=47k
+attr    resistance=3.3k
 attr    tolerance=±5%
 attr    power-rating=3W
 attr    temp-co=0±100ppm/°C
@@ -7,6 +7,6 @@ attr    case-style=smd
 attr    case-length=10.5mm
 attr    case-width=5.5mm
 attr    manuf=TE Connectivity
-attr    manuf-pn=SMF347KJT
-attr    mouser-pn=279-SMF347KJT
-attr    farnell-pn=1086432
+attr    manuf-pn=SMF33K3JT
+attr    mouser-pn=279-SMF33K3JT
+attr    farnell-pn=1086415
