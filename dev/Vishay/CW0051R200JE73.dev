@@ -1,0 +1,11 @@
+attr    footprint=R_AXIAL_1200.fp
+attr    resistance=1.2
+attr    tolerance=±5%
+attr    power-rating=5W
+attr    temp-co=0±50ppm/°C
+attr    case-style=axial
+attr    case-diameter=7.92mm
+attr    case-length=22.22mm
+attr    manuf=Vishay
+attr    manuf-pn=CW0051R200JE73
+attr    mouser-pn=71-CW0051R200JE73

@@ -1,0 +1,13 @@
+attr    footprint=CP_CAN_300.fp
+attr    pinmap=P=1
+attr    pinmap=N=2
+attr    capacitance=100µ
+attr    tolerance=±20%
+attr    voltage-rating=250V
+attr    case-style=can
+attr    case-diameter=18mm
+attr    case-height=35.5mm
+attr    lead-spacing=7.5mm
+attr    manuf=Nichicon
+attr    manuf-pn=UPW2E101MHD
+attr    mouser-pn=647-UPW2E101MHD

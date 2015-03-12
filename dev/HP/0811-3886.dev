@@ -1,0 +1,3 @@
+attr    hp-description=RESISTOR 10 +-1% 3W PWN TC=0+-90
+attr    hp-manuf-code=28480
+include Vishay/RS02B10R00FE70
