@@ -1,8 +1,4 @@
 attr    footprint=HEADER_3S.fp
-attr    numslots=3
-attr    slotdef=1:1
-attr    slotdef=2:2
-attr    slotdef=3:3
 attr    pitch=2.54mm
 attr    num-contacts=3
 attr    num-rows=1

@@ -1,11 +1,4 @@
 attr    footprint=MOLEX_MINI_FIT_JR_SNAP_6.fp
-attr    numslots=6
-attr    slotdef=1:1
-attr    slotdef=2:2
-attr    slotdef=3:3
-attr    slotdef=4:4
-attr    slotdef=5:5
-attr    slotdef=6:6
 attr    pitch=4.2mm
 attr    num-contacts=6
 attr    num-rows=2
