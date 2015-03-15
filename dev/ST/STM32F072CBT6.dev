@@ -1,0 +1,6 @@
+attr    footprint=QFP_48.fp
+attr    manuf=ST
+attr    manuf-pn=STM32F072CBT6
+attr    digikey-pn=497-14645-ND
+attr    mouser-pn=511-STM32F072CBT6
+attr    farnell-pn=2432094

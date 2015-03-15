@@ -1,0 +1,6 @@
+attr    footprint=SOIC_8.fp
+attr    manuf=Texas Instruments
+attr    manuf-pn=REF5040AID
+attr    digikey-pn=296-22207-5-ND
+attr    mouser-pn=595-REF5040AID
+attr    farnell-pn=1439624
