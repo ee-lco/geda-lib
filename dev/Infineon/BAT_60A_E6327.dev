@@ -1,0 +1,8 @@
+attr    footprint=SOD323.fp
+attr    pinmap=K=1
+attr    pinmap=A=2
+attr    manuf=Infineon
+attr    manuf-pn=BAT 60A E6327
+attr    digikey-pn=BAT60AE6327INCT-ND
+attr    mouser-pn=726-BAT60AE6327
+attr    farnell-pn=2432679

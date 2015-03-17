@@ -1,0 +1,9 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=G=1
+attr    pinmap=S=2
+attr    pinmap=D=3
+attr    manuf=Fairchild
+attr    manuf-pn=FDN327N
+attr    digikey-pn=FDN327NCT-ND
+attr    mouser-pn=512-FDN327N
+attr    farnell-pn=1471048
