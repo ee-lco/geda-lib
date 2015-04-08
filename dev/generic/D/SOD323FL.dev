@@ -1,1 +1,3 @@
 attr    footprint=D_SOD323FL.fp
+attr    pinmap=K=1
+attr    pinmap=A=2
