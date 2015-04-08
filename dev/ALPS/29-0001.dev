@@ -1,0 +1,12 @@
+attr    footprint=POT_SIDE.fp
+attr    pinmap=CCW=1
+attr    pinmap=WIPER=2
+attr    pinmap=CW=3
+attr    resistance=10k
+attr    tolerance=20%
+attr    power-rating=50mW
+attr    turns=1
+attr    taper=linear
+attr    manuf=ALPS
+attr    manuf-pn=29 0001
+attr    farnell-pn=1191735
