@@ -1,0 +1,9 @@
+attr    footprint=R_2512.fp
+attr    resistance=0.1
+attr    tolerance=±1%
+attr    power-rating=3W
+attr    temp-co=0±75ppm/°C
+attr    manuf=Bourns
+attr    manuf-pn=CRA2512-FZ-R100ELF
+attr    digikey-pn=CRA2512-FZ-R100ELFCT-ND
+attr    farnell-pn=1435952

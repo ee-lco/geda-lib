@@ -1,0 +1,7 @@
+attr    footprint=TO220AB.fp
+attr    pinmap=G=1
+attr    pinmap=D=2
+attr    pinmap=S=3
+attr    manuf=NXP
+attr    manuf-pn=BUK9575-55A
+attr    farnell-pn=1769675

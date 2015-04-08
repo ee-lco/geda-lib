@@ -1,0 +1,14 @@
+attr    footprint=TE_MINI_UNIVERSAL_MATE_N_LOCK_2.fp
+attr    pitch=4.14mm
+attr    num-contacts=2
+attr    num-rows=1
+attr    mounting-angle=vertical
+attr    current-rating=9.5A
+attr    voltage-rating=600V
+attr    case-length=6.35mm
+attr    case-width=13.69mm
+attr    case-height=13.49mm
+attr    manuf=TE Connectivity
+attr    manuf-pn=1-770166-1
+attr    digikey-pn=A32450-ND
+attr    mouser-pn=571-1-770166-1

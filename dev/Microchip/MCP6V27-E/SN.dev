@@ -1,0 +1,5 @@
+attr    footprint=SOIC_8.fp
+attr    manuf=Microchip
+attr    manuf-pn=MCP6V26-E/SN
+attr    digikey-pn=MCP6V27-E/SN-ND
+attr    farnell-pn=1925057
