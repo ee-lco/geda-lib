@@ -4,7 +4,7 @@ Element["" "" "J1" "" 0.0000 0.0000 -2.600mm 3.600mm 0 100 ""]
 	Pin[ 0.0000  0.0000 2.350mm 30.00mil 2.500mm 1.400mm "" "1" "square"]
 	Pin[ 4.140mm 0.0000 2.350mm 30.00mil 2.500mm 1.400mm "" "2" ""]
 
-	Pin[ 8.590mm 0.0000 5.350mm 30.00mil 5.500mm 3.180mm "" "4" "hole"]
+	Pin[ 8.590mm 0.0000 3.180mm 30.00mil 3.330mm 3.180mm "" "4" "hole"]
 
 	ElementLine [-2.600mm -2.500mm  6.750mm -2.500mm 0.500mm]
 	ElementLine [-2.600mm -2.500mm  6.750mm -2.500mm 0.500mm]
