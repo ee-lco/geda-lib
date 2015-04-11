@@ -1,0 +1,8 @@
+attr    footprint=TB_3.5_H_2.fp
+attr    pitch=3.5mm
+attr    num-contacts=2
+attr    num-rows=1
+attr    mounting-angle=horizontal
+attr    manuf=CambenBoss
+attr    manuf-pn=CTB0355/2
+attr    farnell-pn=2315252
