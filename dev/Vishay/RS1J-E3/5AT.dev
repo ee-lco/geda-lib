@@ -1,6 +1,4 @@
 attr    footprint=D_SMA.fp
-attr    pinmap=K=C
-attr    pinmap=A=A
 attr    manuf=Diodes Inc
 attr    manuf-pn=RS1J-E3/5AT
 attr    mouser-pn=625-RS1J-E3/5AT

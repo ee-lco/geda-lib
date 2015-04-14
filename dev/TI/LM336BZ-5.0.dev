@@ -1,6 +1,6 @@
 attr    footprint=TO92B.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    pinmap=ADJ=3
 attr    manuf=Texas Instruments
 attr    manuf-pn=LM336BZ-5.0/NOPB

@@ -55,9 +55,9 @@ P 0 1400 200 1400 1 0 0
 T 0 1400 5 10 0 0 0 0 1
 pintype=pas
 T 255 1395 5 10 0 0 0 0 1
-pinlabel=K
+pinlabel=C
 T 105 1445 5 10 0 0 0 6 1
-pinnumber=K
+pinnumber=C
 T 0 1400 5 10 0 0 0 0 1
 pinseq=3
 }

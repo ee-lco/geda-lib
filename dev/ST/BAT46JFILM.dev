@@ -1,6 +1,4 @@
 attr    footprint=D_SOD323.fp
-attr    pinmap=K=C
-attr    pinmap=A=A
 attr    manuf=ST
 attr    manuf-pn=BAT46JFILM
 attr    digikey-pn=497-6653-1-ND

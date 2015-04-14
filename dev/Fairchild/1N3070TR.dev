@@ -1,6 +1,6 @@
 attr    footprint=D_DO_35.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    manuf=Fairchild
 attr    manuf-pn=1N3070TR
 attr    digikey-pn=1N3070TRFSCT-ND

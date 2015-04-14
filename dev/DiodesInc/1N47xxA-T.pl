@@ -10,7 +10,7 @@ for (my $t = 28; $t <= 61; $t++) {
     print $fh <<"EOT";
 attr    footprint=D_DO_41.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    manuf=Diodes Inc
 attr    manuf-pn=${pn}-T
 attr    digikey-pn=${pn}DICT-ND

@@ -1,6 +1,6 @@
 attr    footprint=D_SOD_64.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    manuf=Vishay Semiconductors
 attr    manuf-pn=BYV98-100-TAP
 attr    mouser-pn=78-BYV98-100-TAP 

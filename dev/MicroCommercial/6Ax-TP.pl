@@ -10,7 +10,7 @@ foreach my $t ("05", "1", "2", "4", "6", "8", "10") {
     print $fh <<"EOT";
 attr    footprint=D_AXIAL_800.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    manuf=Micro Commercial Components
 attr    manuf-pn=${pn}
 attr    digikey-pn=${pn}MSCT-ND

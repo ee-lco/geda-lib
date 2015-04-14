@@ -1,6 +1,4 @@
 attr    footprint=D_SMC.fp
-attr    pinmap=K=C
-attr    pinmap=A=A
 attr    manuf=Diodes Inc
 attr    manuf-pn=S5BC-13-F
 attr    mouser-pn=621-S5BC-F

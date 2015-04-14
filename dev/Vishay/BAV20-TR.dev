@@ -1,6 +1,6 @@
 attr    footprint=D_DO_35.fp
 attr    pinmap=A=1
-attr    pinmap=K=2
+attr    pinmap=C=2
 attr    manuf=Vishay
 attr    manuf-pn=BAV20-TR
 attr    mouser-pn=78-BAV20
