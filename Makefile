@@ -11,7 +11,7 @@ define submake_recipe
 .PHONY: $(CURDIR)/$(1)
 $(CURDIR)/$(1): $(1)/Makefile
 	@mkdir -p $$@
-	make -C $$@ -f ../$$< $(MAKECMDGOALS)
+	make -C $$@ -f $$(realpath $$<) $(MAKECMDGOALS)
 
 endef
 
