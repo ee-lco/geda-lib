@@ -1,0 +1,5 @@
+attr    footprint=MSOP_10.fp
+attr    manuf=Microchip
+attr    manuf-pn=MCP73834-FCI/UN
+attr    digikey-pn=MCP73834-FCI/UN-ND
+attr    farnell-pn=1332162
