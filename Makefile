@@ -1,11 +1,16 @@
 
 .DEFAULT_GOAL := all
 
+
 SRCDIR ?= $(dir $(lastword $(MAKEFILE_LIST)))
 VPATH  := $(SRCDIR)
 
 .PHONY: all
 all: $(CURDIR)/dev $(CURDIR)/fp $(CURDIR)/sym
+
+.PHONY: clean
+clean:
+	rm -rf $(CURDIR)/dev $(CURDIR)/fp $(CURDIR)/sym
 
 define submake_recipe
 .PHONY: $(CURDIR)/$(1)
