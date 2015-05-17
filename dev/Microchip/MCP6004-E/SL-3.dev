@@ -1,0 +1,6 @@
+attr    pinmap=IN+=10
+attr    pinmap=IN-=9
+attr    pinmap=V+=4
+attr    pinmap=V-=11
+attr    pinmap=OUT=8
+include Microchip/MCP6004-E/SL
