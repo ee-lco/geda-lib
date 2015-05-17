@@ -1,0 +1,6 @@
+attr    pinmap=IN+=11
+attr    pinmap=IN-=10
+attr    pinmap=V+=3
+attr    pinmap=V-=12
+attr    pinmap=OUT=13
+include TI/LM339AD
