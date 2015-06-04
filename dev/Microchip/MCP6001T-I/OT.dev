@@ -1,0 +1,9 @@
+attr    footprint=SOT23_5.fp
+attr    manuf=Microchip
+attr    manuf-pn=MCP6001T-I/OT
+attr    pinmap=IN+=3
+attr    pinmap=IN-=4
+attr    pinmap=V+=5
+attr    pinmap=V-=2
+attr    pinmap=OUT=1
+attr    farnell-pn=4974992
