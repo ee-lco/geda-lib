@@ -1,0 +1,13 @@
+attr    footprint=EVM3Y.fp
+attr    pinmap=CCW=1
+attr    pinmap=WIPER=3
+attr    pinmap=CW=2
+attr    resistance=10k
+attr    tolerance=25%
+attr    power-rating=150mW
+attr    temp-co=0±250ppm/°C
+attr    turns=1
+attr    taper=linear
+attr    manuf=Panasonic
+attr    manuf-pn=EVM3YSX50B14
+attr    farnell-pn=1849801
