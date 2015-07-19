@@ -1,0 +1,9 @@
+attr    footprint=SRF0703A.fp
+attr    numslots=2
+attr    slotdef=1:1,3
+attr    slotdef=2:2,4
+attr    inductance=22µ
+attr    tolerance=±20%
+attr    manuf=Bourns
+attr    manuf-pn=SRF0703A-220M
+attr    farnell-pn=2454998

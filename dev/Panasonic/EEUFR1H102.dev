@@ -1,0 +1,11 @@
+attr    footprint=CP_CAN_300.fp
+attr    capacitance=1000µ
+attr    tolerance=±20%
+attr    voltage-rating=50V
+attr    case-style=can
+attr    case-diameter=16mm
+attr    case-height=25mm
+attr    lead-spacing=7.5mm
+attr    manuf=Panasonic
+attr    manuf-pn=EEUFR1H102
+attr    farnell-pn=1800690

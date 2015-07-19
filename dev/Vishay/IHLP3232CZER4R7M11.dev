@@ -1,0 +1,6 @@
+attr    footprint=IHLP-3232CZ.fp
+attr    inductance=4.7µ
+attr    tolerance=±20%
+attr    manuf=Vishay
+attr    manuf-pn=IHLP3232CZER4R7M11
+attr    farnell-pn=2056552
