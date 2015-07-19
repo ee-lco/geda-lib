@@ -1,4 +1,6 @@
 attr    footprint=CP_CAN_300.fp
+attr    pinmap=P=1
+attr    pinmap=N=2
 attr    capacitance=2200µ
 attr    tolerance=±20%
 attr    voltage-rating=50V
