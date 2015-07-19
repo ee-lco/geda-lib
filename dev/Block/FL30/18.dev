@@ -1,12 +1,4 @@
 attr    footprint=PCB_UI_48_17.fp
-attr    pinmap=1=PRI1
-attr    pinmap=2=PRI2
-attr    pinmap=3=PRI3
-attr    pinmap=4=PRI4
-attr    pinmap=5=SEC1
-attr    pinmap=6=SEC2
-attr    pinmap=7=SEC3
-attr    pinmap=8=SEC4
 attr    power-rating=30VA
 attr    manuf=Block
 attr    manuf-pn=FL 30/18
