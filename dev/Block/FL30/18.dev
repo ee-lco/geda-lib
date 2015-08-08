@@ -1,4 +1,4 @@
-attr    footprint=PCB_UI_48_17.fp
+attr    footprint=BLOCK_UI_39.fp
 attr    power-rating=30VA
 attr    manuf=Block
 attr    manuf-pn=FL 30/18
