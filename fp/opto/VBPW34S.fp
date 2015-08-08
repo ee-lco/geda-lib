@@ -21,6 +21,6 @@ Element["" "1206 (LEDC3216X120HS)" "D1" "" 0.000mm 0.000mm 0.000mm 0.000mm 0 100
 	ElementLine[-4.7200mm  0.0000mm -4.7200mm  0.0000mm  0.4000mm]
 
 	# copper
-	Pad[-3.4200mm  0.0000mm -3.4200mm  0.0000mm  1.8000mm  0.4000mm  1.0000mm "" "C" "square"]
-	Pad[ 3.7800mm  0.0000mm  3.7800mm  0.0000mm  1.8000mm  0.4000mm  1.0000mm "" "A" "square"]
+	Pad[-3.4200mm  0.0000mm -3.4200mm  0.0000mm  1.8000mm  0.4000mm  1.8000mm "" "C" "square"]
+	Pad[ 3.7800mm  0.0000mm  3.7800mm  0.0000mm  1.8000mm  0.4000mm  1.8000mm "" "A" "square"]
 )
