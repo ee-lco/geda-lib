@@ -83,7 +83,7 @@ pintype=pwr
 T 4000 800 5 16 0 0 90 0 1
 pinseq=9
 T 4100 950 5 16 1 1 0 2 1
-pinnumber=9
+pinnumber=EP
 T 4000 1050 9 16 1 1 90 0 1
 pinlabel=GND
 }

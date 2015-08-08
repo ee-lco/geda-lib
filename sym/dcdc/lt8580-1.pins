@@ -15,6 +15,6 @@ t,4,SW,o
 t,-
 b,-
 b,6,RT,i
-b,9,GND,pwr
+b,EP,GND,pwr
 b,7,SS,i
 b,-

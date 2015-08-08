@@ -17,6 +17,6 @@ t,2,SW,out
 t,-
 b,-
 b,-
-b,11,GND,pwr
+b,EP,GND,pwr
 b,-
 b,-
