@@ -1,0 +1,5 @@
+attr    footprint=HEADER_16D_HDR.fp
+attr    pitch=2.54mm
+attr    num-contacts=16
+attr    num-rows=2
+attr    mounting-angle=vertical
