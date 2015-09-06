@@ -1,0 +1,6 @@
+attr    footprint=XAL40XX.fp
+attr    inductance=4.7µ
+attr    tolerance=±20%
+attr    manuf=Coilcraft
+attr    manuf-pn=XAL4030-472ME
+attr    farnell-pn=2289056
