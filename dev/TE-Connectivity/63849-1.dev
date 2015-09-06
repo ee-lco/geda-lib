@@ -1,0 +1,8 @@
+attr    footprint=FASTON_6.35.fp
+attr    pitch=5.08mm
+attr    num-contacts=2
+attr    num-rows=1
+attr    mounting-angle=vertical
+attr    manuf=TE Connectivity
+attr    manuf-pn=63849-1
+attr    farnell-pn=1772662
