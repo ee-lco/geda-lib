@@ -1,0 +1,5 @@
+attr    footprint=HEADER_12S.fp
+attr    pitch=2.54mm
+attr    num-contacts=12
+attr    num-rows=1
+attr    mounting-angle=vertical
