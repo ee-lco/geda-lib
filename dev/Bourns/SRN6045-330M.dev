@@ -1,0 +1,6 @@
+attr    footprint=SRN6045.fp
+attr    inductance=33µ
+attr    tolerance=±20%
+attr    manuf=Bourns
+attr    manuf-pn=SRN6045-330M
+attr    farnell-pn=2061655
