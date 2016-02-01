@@ -1,0 +1,8 @@
+attr    footprint=OARS1-4T.fp
+attr    resistance=40m
+attr    tolerance=±1%
+attr    power-rating=2W
+attr    temp-co=0±40ppm/°C
+attr    manuf=TT Electronics
+attr    manuf-pn=OARS1 - R040FI
+attr    farnell-pn=1200354
