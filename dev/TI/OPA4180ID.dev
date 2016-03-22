@@ -1,4 +1,5 @@
 attr    footprint=SOIC_14.fp
+attr    numslots=4
 attr    manuf=Texas Instruments
-attr    manuf-pn=OPA4180IDR
+attr    manuf-pn=OPA4180ID
 attr    farnell-pn=2361459

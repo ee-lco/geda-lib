@@ -3,4 +3,4 @@ attr    pinmap=IN-=13
 attr    pinmap=V+=4
 attr    pinmap=V-=11
 attr    pinmap=OUT=14
-include TI/OPA4180IDR
+include TI/OPA4180ID
