@@ -1,0 +1,7 @@
+attr    footprint=TO247.fp
+attr    pinmap=G=1
+attr    pinmap=D=2
+attr    pinmap=S=3
+attr    manuf=IRF
+attr    manuf-pn=IRFP250N
+attr    farnell-pn=8649260
