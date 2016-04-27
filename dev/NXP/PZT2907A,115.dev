@@ -1,0 +1,7 @@
+attr    footprint=SOT_223.fp
+attr    pinmap=B=1
+attr    pinmap=C=2
+attr    pinmap=E=3
+attr    manuf=NXP
+attr    manuf-pn=PZT2907A,115
+attr    farnell-pn=1758037
