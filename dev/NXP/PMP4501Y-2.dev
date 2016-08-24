@@ -1,0 +1,4 @@
+attr    pinmap=C=3
+attr    pinmap=B=2
+attr    pinmap=E=4
+include NXP/PMP4501Y
