@@ -1,0 +1,7 @@
+attr    footprint=TO92B.fp
+attr    pinmap=A=2
+attr    pinmap=C=1
+attr    pinmap=ADJ=3
+attr    manuf=Texas Instruments
+attr    manuf-pn=TL431CLP
+attr    farnell-pn=1106038
