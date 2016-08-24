@@ -1,4 +1,4 @@
-attr    footprint=SOT_223.fp
+attr    footprint=SOT223.fp
 attr    pinmap=B=1
 attr    pinmap=C=2
 attr    pinmap=E=3
