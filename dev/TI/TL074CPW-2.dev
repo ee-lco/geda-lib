@@ -1,0 +1,6 @@
+attr    pinmap=IN+=5
+attr    pinmap=IN-=6
+attr    pinmap=V+=11
+attr    pinmap=V-=4
+attr    pinmap=OUT=7
+include TI/TL074CPW
