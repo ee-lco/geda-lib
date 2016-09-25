@@ -1,0 +1,7 @@
+attr    footprint=SOT223.fp
+attr    pinmap=ADJ=1
+attr    pinmap=OUT=2
+attr    pinmap=INP=3
+attr    manuf=Texas Instruments
+attr    manuf-pn=LM317DCY
+attr    digikey-pn=296-12602-1-ND
