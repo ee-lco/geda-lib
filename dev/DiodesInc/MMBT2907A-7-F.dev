@@ -1,0 +1,7 @@
+attr    footprint=SOT23_3.fp
+attr    pinmap=C=3
+attr    pinmap=B=1
+attr    pinmap=E=2
+attr    manuf=Diodes Inc
+attr    manuf-pn=MMBT2907A-7-F
+attr    digikey-pn=MMBT2907A-FDICT-ND
